@@ -4,7 +4,7 @@ Jave课设，简单的天气预报APP。
 ### 注意：使用时需要更换内部API的key值
 key的获取：
 
-1. 访问心知天气
+1. 访问心知天气 http://www.thinkpage.cn/
 
 2. 注册账号
 
