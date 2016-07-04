@@ -13,4 +13,4 @@ KEY的获取：
 4. 更换位于com.homework.simpleweather.ui.AddCityActivity文件下url字符串的key值"key=xxxxxxxxxxx"
 
 
-#######完成课设于2015年12月16日~~~
+######完成课设于2015年12月16日~~~
